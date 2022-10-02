@@ -23,3 +23,9 @@
     inline return_type function_name(arguments) {
         // function code
     }
+
+# Recursion
+- A function calling itself directly or indirectly.
+- A direct recursive function calls the same function(it own personal function)
+- An indirect recursive function calls another function
+- The idea of recursion is to represent a problem in terms of one or more smaller problems
